@@ -1,4 +1,4 @@
-# 👋 Hi, I'm surjiks
+# 👋 Hi, I'm surji narayanan k s
 
 I'm a **Full Stack Development** student and a passionate learner in the field of **Blockchain Technology**. I enjoy building web applications, exploring decentralized systems, and mentoring others who are starting their journey in blockchain.
 
