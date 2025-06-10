@@ -20,7 +20,7 @@ I'm a **Full Stack Development** student and a passionate learner in the field o
 ## 📫 Let's Connect
 
 - 📧 Email: surjiks93@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/surji-narayanan-k-s](#)
+- 💼 LinkedIn: [www.linkedin.com/in/surji-narayanan-k-s-6393b3292](#)
 
 ---
 
