@@ -1,4 +1,4 @@
 # surjiks.github.io
 
-hello! \n
+hello! 
 created my portfolio in html format
